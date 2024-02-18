@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedEl-naagar
-- 👀 I’m interested in Backend Node Js Express , And Front end
+- 👀 I’m interested in Backend Node Js Express , And Front End
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me gmail: mohamednegoo5@gmail.com
 - ⚡ happy coding!
