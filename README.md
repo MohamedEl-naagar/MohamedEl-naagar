@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohamedEl-naagar
-- 👀 I’m interested in Backend Node Js Express , and front End
-- 🌱 I’m currently learning Backend
+-  Backend Node Js Express , NestJs
 - 📫 How to reach me gmail: mohamednegoo5@gmail.com
 - ⚡ happy coding!
 
